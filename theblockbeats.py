@@ -23,10 +23,10 @@ BATCH_SIZE = 10            # 达到 10 条时批量写入
 
 
 ALI_DB_CONFIG = {
-    "host": "rm-7xv485upe07s89u8loo.mysql.rds.aliyuncs.com",
-    "user": "person",
-    "password": "Aaa552200%",
-    "db": "storyline_test",
+    "host": "",
+    "user": "",
+    "password": "%",
+    "db": "",
     "charset": "utf8mb4",
     "cursorclass": DictCursor
 }
